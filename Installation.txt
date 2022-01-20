@@ -1,0 +1,3 @@
+Installation
+
+Unter Linux kann Java meistens �ber einen Paketmanager installiert werden,
